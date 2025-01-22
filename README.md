@@ -4,7 +4,6 @@ I'm a passionate Software Engineer and budding AI enthusiast based in Abuja, Nig
 
 🚀 About Me 
 
-- I currently help solve business problems using javascript(React)
 - 🌱 I’m currently learning about how software can be made more energy efficient
 - 👯 I’m looking to collaborate on projects that solve real world problems
 - 📫 How to reach me: prinxard@gmail.com
